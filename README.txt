@@ -1,0 +1,1 @@
+This project is a lightweight Python chess application consisting of a TCP server and command-line client. The server handles two-player matchmaking, turn management, and full server-side move validation using a custom chess engine that supports legal moves, checks, checkmates, stalemates, and promotions. 
